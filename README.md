@@ -16,7 +16,7 @@ Follow these steps to install and run the project.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chatbot-nlp-pytorch.git
+    git clone  https://github.com/Ayo1mide/MACHINE-LEARNING-PROJECTS.git
     ```
 
 2. Navigate to the project directory:
